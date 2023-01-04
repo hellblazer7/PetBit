@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "687033776854",
+    "firebase_url": "https://iot-project-petbit-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "iot-project-petbit",
+    "storage_bucket": "iot-project-petbit.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:687033776854:android:76b46892ee2e745296e777",
+        "android_client_info": {
+          "package_name": "com.example.test2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "687033776854-ieks2n8m7im7qjr9ce2djbpsi42ps2go.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDT87_Xvw5_penwkQ6xyXC96nYnHIhFKL0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "687033776854-ieks2n8m7im7qjr9ce2djbpsi42ps2go.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
